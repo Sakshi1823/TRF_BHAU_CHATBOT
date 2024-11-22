@@ -1,0 +1,91 @@
+TRF stands for THE ROBOTICS FORUM.
+
+BHAU stands for Brilliant Helpful autonomous unique.
+This wokrshop is named as TRF Level one workshop. This workshop is the best one to get initial exposure to the world of robotics. Attendees of TRF Level one workshop get theoritical as well as hands of experience of variuous domains in robotics
+The TRF Level one workshop starts with covering the basics of electronics, programming and mechanical design. Students get to know some core electronics concepts like transistors, diodes, voltage regulator, other digital circuits, motor drivers and many more. In programming, students learn the basics of C, c plus plus and python programming.
+in the TRF Level one workshop, students also get to learn about various mecahnical design softwares like CREO CAD and others.
+The worshop embibes values in students like teamwork, design optimisations. the TRF Level one workshop consists of students participating in a group. each group consists of four attenddes.
+the TRF Level one workshop will be launched on 15 November. it is a 20 day long workshop. We encourage the students to join the TRF Level one workshop . Happy Learning.
+One has to pay a 1000 rupees to join the workhsop. Students from all disciplines can join or enroll in the workshop
+ 
+TRF stands for THE ROBOTICS FORUM.
+BHAU stands for Brilliant Helpful autonomous unique. BHAU is a humanoid type robot. BHAU has been evolving for many years. BHAU has 7 geenrations now.
+BHAU uses 3 wheel holonomic omni-drive for its movement. BHAU also uses Jetson Nano as a processor to process its surroundings. BHAU can move his arms which use stepper motor and servo Motors.
+BHAU can also gift you a flower. He is a smart robot. BHAU can detect objects using computer vision. BHAU can rotate its head using Stepper motors.
+Components in the level 1 kit:
+Rudra 7.0 Development board, 1 Robotic arm with gripper, 1 URJA Dual Channel motor driver, 1 IR array of 3 sensor, 2 12V DC Motor, 1 MG995 Servo motor, 1 OLED Display, 2 Wheels, 1 Buzzer, 2 Relays, 1 RGB Led, 1 Potentiometer, 4 DPDT Switch, 1 Castor wheel, 1 Remote Controller, 1 USB A to B cable
+Features of level one robot:
+Pick & Place,Line tracing, Colour following, Voice command, IOT application, Manually operated
+
+Softwares:
+Python, Autodesk Fusion, MIT app inventor, Arduino IDE
+
+For Queries contact:
+Apoorva Kunte: +91 70280 50755 
+Harsh Wadekar: +91 91460 05510 
+Ankita Dhage: +91 72489 37459
+
+TRF stands for THE ROBOTICS FORUM.
+For registering for the level one workshop
+Visit https://learner.vierp.in/
+Login using your credentials
+Go to the events section 
+Choose pay event fee option
+In the events dropdown box select TRF 2024-25
+Select the pay button
+Select pay by Paytm
+Note down the reference number
+Download the receipt generated
+Take screenshot of your payment  
+Fill out the Google form with all the required information and upload the receipt 
+
+For registering for the membership
+Visit https://learner.vierp.in/
+Login using your credentials
+Go to the events section 
+Choose pay event fee option
+In the events dropdown box select TRF Membership Fees 2024-25
+Select the pay button
+Select pay by Paytm
+Note down the reference number
+Download the receipt generated
+Take screenshot of your payment  
+The bene
+
+TRF stands for THE ROBOTICS FORUM.
+it of a TRF membership is that it requires only a one-time payment. After that, you'll receive a discount of 50 RS on all future workshop fees, helping you save 50 RS each time you attend.
+The level one workshop serves as a platform for enthusiasts and interested students to come together and meet like minded people, interact with each other and learn from one another and their seniors. It also enables people to experience various domains in engineering like mechanical, electrical and programing, this helps them identify their interests and further develop them. You also get an certificate of completion for the workshop. Level one workshop also serves as a platform for recruitment of First year students in the R and D cell of TRF.
+
+Robots made by TRF include BHAU, R1, R2, quadrapet, self balancing and a line following robot. All these robots have been specifically been made for certain competitions.
+
+TRF stands for THE ROBOTICS FORUM.
+The theme for ABU Robocon 2024, hosted by Vietnam, is inspired by the country’s traditional terraced rice fields. The competition will showcase robots simulating stages of rice cultivation, such as sowing seeds, harvesting rice, and transporting it to storage. This theme highlights the importance of efficient farming, symbolizing the prosperity that comes from these agricultural practices. The overall message is about promoting sustainability and technological innovation in farming​.
+For this year's contest:
+Robots: Each team will use two robots. One robot will handle tasks like planting rice seedlings in the sowing area, while the other will be involved in harvesting and transporting rice grains.
+Arena: The competition area is divided into three zones: the Sowing Area, the Harvesting Area, and the Grain Storage Area, each representing different stages of the rice cultivation process. Teams need to maneuver their robots across these zones, complete tasks, and score points by successfully sowing seeds and harvesting rice.
+Host Country: Vietnam, which is known for its rich rice cultivation culture and stunning terraced fields, is the host of Robocon 2024
+For ABU Robocon 2024, where the theme is inspired by Vietnam's terraced rice fields, the two robots used by each team will perform distinct but complementary tasks related to rice cultivation. Here's a breakdown of the tasks expected of each robot:
+Robot 1 (Seedling Robot):
+Sowing Seeds: The first robot's primary task is to go to the Sowing Area and collect rice seedlings from the Seedling Shelf. It will then plant these seedlings in the Sowing Area, one at a time. Each successful planting earns the team 10 points.
+Transporting Seedlings: The robot will have to navigate across different terrains within the arena to transport the seedlings from the Seedling Shelf to the planting area.
+Robot 2 (Harvesting and Transport Robot):
+Harvesting Rice: The second robot’s main role is to move to the Harvesting Area and collect rice grains or rice husks. It will then transport these grains to the Grain Storage Area.
+Storing Rice: Once in the storage area, the robot must deposit the harvested rice into silos or tubes in the Grain Storage Area, with each successful transfer earning points.
+Harvesting Efficiency: This robot needs to work in coordination with Robot 1 to ensure that the number of harvested rice grains does not exceed the number of seedlings planted, maintaining balance in the competition.
+These tasks are designed to simulate a farming process, from planting rice to harvesting and storage, emphasizing precision and coordination between the two robots as they perform their roles in different stages of rice cultivation
+That is what The R1 And R2 robots were made for.
+The quadrapet bot was made to emulate the movement of a dog it walks by lifting one front leg and one hind in the opposite and placing it forward. It then continues this action. 
+
+TRF stands for THE ROBOTICS FORUM.
+The TRF Level One workshop, organized by the TRF team at VIT, Pune, is a highly immersive and comprehensive 20-day program designed to offer students their first in-depth exposure to the world of robotics. Attendees will be mentored by technical members of TRF. The workshop begins on November 15th and is open to students from all disciplines, providing a unique opportunity to gain both theoretical and hands-on experience in a variety of robotics domains. The workshop offers students the chance to explore the basics of electronics, programming, and mechanical design, providing an ideal starting point for those interested in the multidisciplinary field of robotics. The cost to enroll is 1000 rupees, and successful participants will receive a certificate of completion, which can be a valuable addition to their academic or professional credentials. The program also emphasizes teamwork and collaboration, as students will be grouped into teams of four, ensuring that they work together to solve problems and build robots.
+Throughout the workshop, students will get a solid grounding in several key areas. The electronics portion covers fundamental concepts such as transistors, diodes, voltage regulators, motor drivers, digital circuits, and various components essential for building robotic systems. In the programming section, students will be introduced to the basics of C, C++, and Python, which are foundational languages for robotics and automation. These programming skills will allow students to understand how to control and program the robots they build. Additionally, students will gain exposure to mechanical design using software like CREO CAD, which is used to design the physical parts of a robot. This combination of theoretical learning and practical application prepares students for real-world robotics challenges.
+The TRF Level One workshop provides students with a comprehensive robotics kit that includes various components necessary for building and programming robots. The kit contains the Rudra 7.0 Development board, a robotic arm with a gripper, a URJA dual-channel motor driver, an IR array of three sensors, two 12V DC motors, one MG995 servo motor, an OLED display, two wheels, a buzzer, two relays, an RGB LED, a potentiometer, four DPDT switches, one castor wheel, and a remote controller. With these components, students will be able to build robots capable of performing various functions, including pick and place, line tracing, color following, voice command recognition, and IoT applications. These robots can also be manually operated, giving students the freedom to control them in various ways. To program and control these robots, the workshop provides students with access to essential software tools, such as Python, Autodesk Fusion for mechanical design, MIT App Inventor for creating apps, and Arduino IDE for embedded systems programming.
+The TRF Level One workshop also offers an opportunity for students to join TRF as a member by paying a one-time membership fee. The benefit of becoming a TRF member is that students will receive a 50 RS discount on all future workshop fees, which makes it an excellent option for those who wish to continue participating in TRF's workshops. This membership provides added value, especially for students who are looking to deepen their knowledge and skills in robotics and related fields. The registration process for both the workshop and the membership is straightforward and entirely online. Students can visit the TRF portal, log in with their credentials, and pay for the workshop through Paytm. After making the payment, they can download the receipt, take a screenshot of it, and fill out the registration form, ensuring their place in the workshop. The online system simplifies the enrollment process, making it accessible for all interested students.
+Upon completing the TRF Level One workshop, participants will not only have learned valuable technical skills but also gained exposure to career opportunities. The workshop serves as a platform for recruitment into the R&D cell of TRF, providing first-year students with the chance to contribute to the development of future robots and innovations. Additionally, the workshop offers a space for students to connect with peers who share similar interests in robotics. They can collaborate, share knowledge, and learn from each other’s experiences, which will foster a sense of community and camaraderie. Students will also have the chance to interact with seniors and mentors who can guide them on their learning journey, helping them grow both technically and professionally.
+The TRF Level One workshop also introduces students to the exciting world of competitive robotics. TRF is known for developing robots like BHAU, R1, R2, Quadrapet, self-balancing robots, and line-following robots, which are designed specifically for various competitions. BHAU, for example, is a humanoid robot that has evolved through seven generations. Its name stands for Brilliant, Helpful, Autonomous, and Unique, which reflects its advanced capabilities. BHAU uses a 3-wheel holonomic omni-drive system for movement and a Jetson Nano processor to process its surroundings. It can also perform intricate movements with its arms, using stepper motors and servo motors, and it can even gift a flower, showcasing its smart capabilities. BHAU can detect objects using computer vision and rotate its head using stepper motors, making it one of the most sophisticated robots developed by TRF.
+Another key aspect of the workshop is that it prepares students to compete in events like ABU Robocon 2024. The theme for the upcoming ABU Robocon competition, hosted by Vietnam, draws inspiration from the country's traditional terraced rice fields. In this competition, robots will perform tasks related to rice cultivation, such as sowing seeds, harvesting rice, and transporting it to storage. Each team will use two robots: one robot will handle tasks like planting rice seedlings in the Sowing Area, while the other will be responsible for harvesting and transporting rice to the Grain Storage Area. This competition highlights the importance of efficiency and precision in farming, and it encourages innovation and sustainability in agricultural practices. The ABU Robocon 2024 competition is an excellent opportunity for students to apply what they have learned in the TRF Level One workshop and showcase their skills on a global stage.
+The TRF Level One workshop provides students with a complete learning experience that combines technical knowledge with hands-on practice and real-world applications. It is not just a place to learn about robotics but also a space where students can develop skills that will be valuable in their careers, whether in robotics, engineering, or related fields. By the end of the workshop, students will have the opportunity to experience all aspects of building and programming robots, giving them the tools and knowledge to pursue further education and career opportunities in robotics. The workshop also helps students identify their interests in specific domains of engineering, whether it’s mechanical design, electronics, or programming, providing them with a clearer path for further learning and development.
+For any queries regarding the workshop or registration, students can contact Apoorva Kunte at +91 70280 50755, Harsh Wadekar at +91 91460 05510, or Ankita Dhage at +91 72489 37459. Additionally, those interested in the TRF Level One workshop or membership can visit the online portal at https://learner.vierp.in/ for more details on registration and payment.
+You have to pay fees first to get registered in the workshop.
+Workshop will be held in both the campus bibewadi, kondhwa.
+

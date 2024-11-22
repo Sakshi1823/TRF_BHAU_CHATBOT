@@ -1,0 +1,24 @@
+This wokrshop is named as TRF Level one workshop. This workshop is the best one to get initial exposure to the world of robotics. Attendees of TRF Level one workshop get theoritical as well as hands of experience of variuous domains in robotics
+The TRF Level one workshop starts with covering the basics of electronics, programming and mechanical design. Students get to know some core electronics concepts like transistors, diodes, voltage regulator, other digital circuits, motor drivers and all electronics components. In programming, students learn the basics of C, c plus plus and python programming.
+in the TRF Level one workshop, students also get to learn about various mecahnical design softwares like CREO CAD and others.
+The worshop embibes values in students like teamwork, design optimisations. the TRF Level one workshop consists of students participating in a group. each group consists of four attenddes.
+the TRF Level one workshop will be launched on 15 November. it is a 20 day long workshop. We encourage the students to join the TRF Level one workshop . Happy Learning.
+One has to pay a 1000 rupees to join the workhsop. Students from all disciplines can join or enroll in the workshop.
+
+Intrested students can enroll for the workshop via VIERP (https://www.vierp.in/). Attendees will receive a certification for participation.
+Steps to register for the workshop:
+    1. Go to the VIERP website (https://www.vierp.in/)
+    2. Go to payments
+    3. Select event -> TRF Level - 1 workhshop
+    4. Proceed for payment and get the receipt of the payment
+    5. Go to the Google form to enroll in the workshop (Link : www.google.com), and submit the screenshot of payment for verification.
+Members get a fee concession of Rs. 100
+
+
+
+BHAU stands for Brilliant Helpful autonomous unique. BHAU is a humanoid type robot. BHAU has been evolving for many years. BHAU is 7 years old.
+BHAU uses 3 wheel holonomic drive for its movement. BHAU also uses Jetson Nano as a processor to process its surroundings. BHAU can move his arms which use power window motors and servo Motors.
+BHAU can also gift you a flower using a servo gripper. He is a smart robot. BHAU can detect objects using computer vision. BHAU can rotate its head using Stepper motors.
+BHAU is developed by Technical memebers of TRF (The Robotics Forum) who belong to domains of Mechanical, electronics and Programming.
+BHAU was also the host for TRF's Annual Inaugration ceremony. 
+BHAU was developed or made or manufactured at the TRF arena in a time of one week.
